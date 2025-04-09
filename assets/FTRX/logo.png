@@ -1,0 +1,16 @@
+{
+  "name": "FuturX",
+  "symbol": "FTRX",
+  "address": "6VdVk3ngmTDBrZDgHCWE3U1VmKFmFTh5mnN43LJQeE9U",
+  "decimals": 9,
+  "chainId": 101,
+  "logoURI": "https://raw.githubusercontent.com/Fiorella20/SantaClausVillage/main/assets/FTRX/logo.png",
+  "tags": ["social", "staking", "charity"],
+  "extensions": {
+    "website": "https://sites.google.com/view/quantum-santa-claus-village/home-page",
+    "description": "FuturX is a token supporting the creation of the Quantum Santa Claus Village, a magical place for families with disabled children.",
+    "twitter": "",
+    "telegram": "",
+    "github": "https://github.com/Fiorella20/SantaClausVillage"
+  }
+}
